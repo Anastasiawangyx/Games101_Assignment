@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/wangyixian/Desktop/Homework/Homework2/Rasterizer
+-- Found OpenCV: /usr/local/Cellar/opencv@3/3.4.10_4 (found version "3.4.10") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wangyixian/Desktop/Homework/Homework2/Rasterizer/cmake-build-debug
