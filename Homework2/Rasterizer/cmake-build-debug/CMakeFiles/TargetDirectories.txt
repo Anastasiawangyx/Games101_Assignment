@@ -1,3 +1,0 @@
-/Users/wangyixian/Desktop/Homework/Homework2/Rasterizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/wangyixian/Desktop/Homework/Homework2/Rasterizer/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/wangyixian/Desktop/Homework/Homework2/Rasterizer/cmake-build-debug/CMakeFiles/Rasterizer.dir
