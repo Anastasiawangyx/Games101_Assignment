@@ -30,3 +30,14 @@ My assignment of games101 online course.
 ## displacement_fragment_shader
 
 ![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework3-5.png)
+
+# Assignment 4
+
+## BezierCurve(Green)
+![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework4-1.png)
+
+## BezierCurve(Yellow)
+![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework4-2.png)
+
+## BezierCurve made by 6 points
+![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework4-3.png)
