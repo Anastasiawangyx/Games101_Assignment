@@ -51,3 +51,9 @@ My assignment of games101 online course.
 
 ## both REFLECTION_AND_REFRACTION
 ![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework5-2.png)
+
+# Assignment 6
+## BVH
+takes 47s to render.
+![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework6.png)
+
