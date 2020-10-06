@@ -41,3 +41,13 @@ My assignment of games101 online course.
 
 ## BezierCurve made by 6 points
 ![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework4-3.png)
+
+# Assignment 5
+## Raytracing
+![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework5.png)
+
+## both DIFFUSE_AND_GLOSSY
+![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework5-1.png)
+
+## both REFLECTION_AND_REFRACTION
+![](https://github.com/Anastasiawangyx/Games101_Assignment/blob/master/images/homework5-2.png)
